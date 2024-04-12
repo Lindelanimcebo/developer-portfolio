@@ -353,3 +353,26 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+export const cardinThemeDark = {
+    type: 'dark',
+    primary: '#0c1a1a',
+    primary400: '#2a5c5c',
+    primary600: '#eeac2a',
+    primary80: '#2a5c5cc',
+    primary50: '#0c1a1a80',
+    primary30: '#0c1a1a4d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: greenThemeboy,
+    aboutimg2: yellowThemegirl,
+    eduimg: eduYellow,
+    expimg: expYellow,
+    contactsimg: contactsYellow
+}
+
+

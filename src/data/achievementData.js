@@ -1,5 +1,7 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "These are some of the things I guess you can call achievements. \
+    I like to call them milestones, I mean what really is an achievement? Is it plausable to call something you've been tirelessly working on \"an achievement\"? \
+    Oh wait... Nevermind, I am contradicting myself.",
     achievements : [
         {
             id : 1,
