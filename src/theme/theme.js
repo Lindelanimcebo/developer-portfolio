@@ -368,11 +368,11 @@ export const cardinThemeDark = {
     tertiary80: '#eaeaeacc',
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
-    aboutimg1: greenThemeboy,
-    aboutimg2: yellowThemegirl,
-    eduimg: eduYellow,
-    expimg: expYellow,
-    contactsimg: contactsYellow
+    aboutimg1: bwThemeboy,
+    aboutimg2: bwThemegirl,
+    eduimg: eduBlack,
+    expimg: expBlack,
+    contactsimg: contactsBlack
 }
 
 
